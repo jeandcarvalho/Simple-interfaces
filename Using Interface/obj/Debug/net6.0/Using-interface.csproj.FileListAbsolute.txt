@@ -1,0 +1,15 @@
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.csproj.AssemblyReference.cache
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.AssemblyInfoInputs.cache
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.AssemblyInfo.cs
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\bin\Debug\net6.0\Using-interface.exe
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\bin\Debug\net6.0\Using-interface.deps.json
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\bin\Debug\net6.0\Using-interface.runtimeconfig.json
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\bin\Debug\net6.0\Using-interface.dll
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\bin\Debug\net6.0\Using-interface.pdb
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.dll
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\refint\Using-interface.dll
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.pdb
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\Using-interface.genruntimeconfig.cache
+C:\Users\Jean\Documents\Visual Studio\C#\Crud C#\Using Interface\Using Interface\obj\Debug\net6.0\ref\Using-interface.dll
